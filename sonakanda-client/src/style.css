@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Global tweaks that complement Tailwind */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
